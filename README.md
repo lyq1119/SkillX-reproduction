@@ -3,8 +3,10 @@
 <b>SkillX: Automatically Constructing Skill Knowledge Bases for Agents</b>
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/SKillX) 
+[![On StackMap](https://img.shields.io/endpoint?url=https%3A%2F%2Fstackmap.shipwithai.xyz%2Fapi%2Fbadge%2Fskillx.json)](https://stackmap.shipwithai.xyz/repos/zjunlp/skillx?utm_source=badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/zjunlp/SKillX?color=green) 
+
 
 <!-- <p align="center">
   <a href="https://arxiv.org/abs/2502.15589">📄arXiv</a> •
@@ -13,6 +15,7 @@
 </p> -->
 
 </div>
+
 
 ## Table of Contents
 
